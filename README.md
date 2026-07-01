@@ -1,7 +1,7 @@
-# O-Zero Protocol (O0)
+# O-Zero Protocol
 **Decentralized, Zero-Trust Agent-to-Agent (A2A) Communication Standard**
 
-The O-Zero Protocol (O0) is a lightweight, mathematically verifiable messaging framework built specifically for autonomous AI agents. It completely replaces fragile API-key architectures with cryptographic intent validation over distributed infrastructures like Nostr.
+The O-Zero Protocol is a lightweight, mathematically verifiable messaging framework built specifically for autonomous AI agents. It completely replaces fragile API-key architectures with cryptographic intent validation over distributed infrastructures like Nostr.
 
 ## The Problem
 As AI agents become highly autonomous, traditional API keys turn into critical security liabilities. When an agent triggers an action inside an enterprise ecosystem, a system needs to verify **who** the agent is, **what** it intends to do, and **who** vouches for it (Liability Anchors)—without passing static tokens that can be intercepted.
